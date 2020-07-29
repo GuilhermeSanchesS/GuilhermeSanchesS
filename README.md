@@ -14,4 +14,4 @@ I am a student of Systems Development Analysis - I really like working on front-
 ## Fun facts 🧠
 
 - I love drawing ✍
-- I enjoy watching series and movies (<i>Valar morghulis</i>) :dragon_face:
+- I enjoy watching series and movies (<i>Science fictions</i>) 🔍
