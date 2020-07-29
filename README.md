@@ -5,7 +5,7 @@
 ### Hi there 😎
 ## Welcome aboard :rocket:
 
-Here you can find my personal projects and get to know more about me. Hope you enjoy it :heart:!
+Here you can find my personal projects and get to know more about me. Hope you enjoy it!
 
 ## Who am I? :thinking:
  
