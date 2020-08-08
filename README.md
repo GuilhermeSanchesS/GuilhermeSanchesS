@@ -15,9 +15,9 @@ I am a student of Systems Development Analysis - I really like working on front-
 - I enjoy watching series and movies (<i>Science fictions</i>) 🔍
 
 ## Connect with me:
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-1B5E20?style=flat-square&labelColor=1B5E20&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZILQwZVdIrf1mzBgDeDN6Q?view_as=subscriber)](https://www.youtube.com/channel/UCZILQwZVdIrf1mzBgDeDN6Q?view_as=subscriber)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00C853?style=flat-square&labelColor=00C853&logo=twitter&logoColor=white&link=https://https://twitter.com/G8U17)](https://twitter.com/G8U17)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00E676?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-sanches-sim%C3%B5es)](https://www.linkedin.com/in/guilherme-sanches-sim%C3%B5es)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-212121?style=flat-square&labelColor=212121&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZILQwZVdIrf1mzBgDeDN6Q?view_as=subscriber)](https://www.youtube.com/channel/UCZILQwZVdIrf1mzBgDeDN6Q?view_as=subscriber)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1B5E20&?style=flat-square&labelColor=1B5E20&&logo=twitter&logoColor=white&link=https://https://twitter.com/G8U17)](https://twitter.com/G8U17)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00C853?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-sanches-sim%C3%B5es)](https://www.linkedin.com/in/guilherme-sanches-sim%C3%B5es)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-64DD17?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guisanchessimoes@gmail.com)](mailto:guisanchessimoes@gmail.com/)
 
 ## Languages and Tools:
