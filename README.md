@@ -17,7 +17,8 @@ I am a student of Systems Development Analysis - I really like working on front-
 ## Connect with me:
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-1B5E20?style=flat-square&labelColor=1B5E20&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZILQwZVdIrf1mzBgDeDN6Q?view_as=subscriber)](https://www.youtube.com/channel/UCZILQwZVdIrf1mzBgDeDN6Q?view_as=subscriber)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00C853?style=flat-square&labelColor=00C853&logo=twitter&logoColor=white&link=https://https://twitter.com/G8U17)](https://twitter.com/G8U17)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-64DD17?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-sanches-sim%C3%B5es)](https://www.linkedin.com/in/guilherme-sanches-sim%C3%B5es)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00E676?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-sanches-sim%C3%B5es)](https://www.linkedin.com/in/guilherme-sanches-sim%C3%B5es)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-64DD17?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guisanchessimoes@gmail.com)](mailto:guisanchessimoes@gmail.com/)
 
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
