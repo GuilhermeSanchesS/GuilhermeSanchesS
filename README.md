@@ -36,6 +36,3 @@ I am a student of Systems Development Analysis - I really like working on front-
 
 <br />
 <br />
-
-  <img align="left" alt="GuilhermeSanchesS's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeSanchesS&show_icons=true&hide_border=true" />
-
