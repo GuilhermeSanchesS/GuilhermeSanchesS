@@ -24,7 +24,8 @@ I am a student of Systems Development Analysis - I really like working on front-
 <img align="left" alt="Visual Studio Code" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="C#" width="30px" height="30px"  src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+<img align="left" alt="C" width="30px" height="30px"  src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+<img align="left" alt="C#" width="30px" height="30px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png">
 <img align="left" alt="Sass" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="30px" height="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Java" width="30px" height="30px" src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png" />
