@@ -40,4 +40,4 @@ I am a student of Systems Development Analysis - I really like working on front-
 
 <br />
 <br />
-![Guilherme Sanches Simoes's github stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSanchesS&show_icons=true&theme=radical)
+![Guilherme's github stats](https://github-readme-stats.vercel.app/api?username=guilhermesanchess&show_icons=true&theme=radical)
