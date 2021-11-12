@@ -21,6 +21,8 @@ I am a student of Systems Development Analysis - I really like working on front-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-64DD17?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guisanchessimoes@gmail.com)](mailto:guisanchessimoes@gmail.com/)
 
 ## Languages and Tools:
+<div style="display: inline_block"><br>
+ <img align="center" alt="Guilherme-SAS" height="37" width="40" src="https://avatars.githubusercontent.com/u/5289877?s=200&v=4">
 <img align="left" alt="Visual Studio Code" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
