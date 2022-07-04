@@ -20,6 +20,12 @@ I am a student of Systems Development Analysis - I really like working on front-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00C853?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-sanches-sim%C3%B5es)](https://www.linkedin.com/in/guilherme-sanches-sim%C3%B5es)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-64DD17?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guisanchessimoes@gmail.com)](mailto:guisanchessimoes@gmail.com/)
 
+<div>
+  <a href="https://github.com/GuilhermeSanchesS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSanchesS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSanchesS&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 ## Languages and Tools:
 <div style="display: inline_block"><br>
  <img align="center" alt="Guilherme-SAS" height="37" width="40" src="https://avatars.githubusercontent.com/u/5289877?s=200&v=4">
