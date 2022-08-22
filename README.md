@@ -13,6 +13,7 @@ I am a student of Systems Development Analysis - I really like working on front-
 
 - I love drawing ✍
 - I enjoy watching series and movies (<i>Science fictions</i>) 🔍
+- I really like playing music 🥁
 
 ## Connect with me:
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-212121?style=flat-square&labelColor=212121&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZILQwZVdIrf1mzBgDeDN6Q?view_as=subscriber)](https://www.youtube.com/channel/UCZILQwZVdIrf1mzBgDeDN6Q?view_as=subscriber)
